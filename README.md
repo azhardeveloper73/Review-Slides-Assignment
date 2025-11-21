@@ -36,6 +36,6 @@ Navigate reviews using Previous/Next buttons or click “Surprise Me” for a ra
 
 🔗 Links
 
-Repository: Your Repo Link
+Repository: (https://github.com/azhardeveloper73/Review-Slides-Assignment/tree/main)
 
 Live Demo: Live Site Link
